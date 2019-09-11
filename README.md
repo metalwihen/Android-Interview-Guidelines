@@ -4,7 +4,7 @@ Finding the right candidate for the job is not simple. You have small window to 
 
 This document hopes to assist anyone taking a domain interview, specifically, Android Development. The interview process covers different aspects like work done, reasoning abilities, experience and knowledge. 
 
-**Note: These are guidelines. This is in no way a definitive way to pick a candidate, the guidelines mentioned here have helped me and I hope they help you.**
+**Note: These are guidelines. This is in no way a definitive way to pick a candidate. The guidelines mentioned here have helped me and I hope they help you.**
 
 
 ## Job Description
